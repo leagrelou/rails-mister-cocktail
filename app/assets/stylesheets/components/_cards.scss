@@ -1,0 +1,21 @@
+.card-cocktail {
+  height: 200px;
+  padding: 20px;
+  position: relative;
+
+  .title-cocktail {
+  color: $light-green;
+  text-transform: uppercase;
+  }
+
+  .link-cocktail {
+  position: absolute;
+  right: 20px;
+  bottom: 20px;
+  font-size: 20px;
+  }
+
+
+}
+
+
